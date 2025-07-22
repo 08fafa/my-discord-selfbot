@@ -1,0 +1,19 @@
+{
+  "name": "discord-selfbot",
+  "version": "1.0.0",
+  "description": "Discord selfbot with 24/7 hosting",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "BLITZ.F08",
+  "license": "MIT"
+}
+
